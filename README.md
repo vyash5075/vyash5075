@@ -1,8 +1,4 @@
 ### Hi there, YASH VERMA 👋
-
-<!--
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontier Wallet
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost time to discover alot about tech. stuff.
--->
