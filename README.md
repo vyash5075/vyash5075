@@ -1,5 +1,5 @@
-### Hi there, YASH VERMA 👋<img width="100" height="100" src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png">
-Here are some ideas to get you started:
+### Hi there, YASH VERMA 👋<br>
+<img width="100" height="100" src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png">
 
 - 🔭 I’m currently working on Frontier Wallet
 - 🌱 I’m currently learning REACT.JS
