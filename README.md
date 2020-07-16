@@ -1,4 +1,4 @@
-### Hi there, YASH VERMA 👋
+### Hi there, YASH VERMA 👋<img src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontier Wallet
