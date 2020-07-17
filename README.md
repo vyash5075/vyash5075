@@ -1,4 +1,4 @@
-### Hi there, YASH VERMA 👋<br>
+### Hi there, YASH VERMA 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br>
 
 
 - 🔭 I’m currently working on Frontier Wallet
