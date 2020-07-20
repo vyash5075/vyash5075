@@ -15,15 +15,14 @@
 <a href="mailto:ashutoshhathidara98@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
-
+ <img align='right'  src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png"  width="230"/>
 <h3>What I do? 👨‍💻</h3>
 <details>
 <summary>Full Stack Developer 🍥</summary>
   <ul><li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
      </ul>
 </details
-  <img align='right'  src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png"  width="230"/>
-  <img align='right' src="https://github.com/ashutosh1919/ashutosh1919/blob/master/my_image.jpeg" width="230" />
+ 
 <details>
   <summary>JAVA Developer</a> 🤖</summary>
   <ul>
