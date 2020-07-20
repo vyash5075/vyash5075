@@ -21,9 +21,8 @@
 <summary>Full Stack Developer 🍥</summary>
   <ul><li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
      </ul>
-</details>
- <img align='right' src="https://github.com/ashutosh1919/ashutosh1919/blob/master/my_image.jpeg" width="230" />
-  <img align='right' width="195" height="195" src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png"   width="230"/>
+</details
+  <img align='right'  src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png"  width="230"/>
 <details>
   <summary>JAVA Developer</a> 🤖</summary>
   <ul>
