@@ -1,6 +1,16 @@
 ### Hi there, YASH VERMA 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br>
 
-
+<h3>What I do? 👨‍💻</h3>
+<details>
+<summary>Full Stack Developer 🍥</summary>
+  <ul>
+     </ul>
+</details>
+<details>
+  <summary>JAVA Developer</a> 🤖</summary>
+  <ul>
+  </ul>
+</details>
 - 🔭 I’m currently working on Frontier Wallet
 - 🌱 I’m currently learning REACT.JS
 - 👯 I’m looking to collaborate on Full Stack projects.
