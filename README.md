@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost time to discover alot about tech. stuff.<br>
 <h3>You Can Connect Me On 👨‍💻</h3>
-<a href="https://https://www.linkedin.com/in/yash-verma-b96699143/"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-verma-b96699143/"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/vyash5075"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/facebook.png" width="40" /></a>
 <a href="mailto:vyash5075@gmail.com"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/google-plus.png" width="40" /></a>
