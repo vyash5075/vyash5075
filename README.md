@@ -8,6 +8,7 @@
 - 💬 Ask me about JAVA 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost time to discover alot about tech. stuff.<br>
+<h3>You Can Connect Me On 👨‍💻</h3>
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
@@ -22,6 +23,7 @@
      </ul>
 </details>
 <details>
+  <img align="right" width="195" height="195" src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png">
   <summary>JAVA Developer</a> 🤖</summary>
   <ul>
   <li> Problem Solving</li>
