@@ -23,7 +23,7 @@
      </ul>
 </details>
 <details>
-  <img align="right" width="195" height="195" src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png">
+  <img align='right' width="195" height="195" src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png">
   <summary>JAVA Developer</a> 🤖</summary>
   <ul>
   <li> Problem Solving</li>
