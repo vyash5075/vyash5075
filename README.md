@@ -11,5 +11,12 @@
 - ⚡ Fun fact: I spend almost time to discover alot about tech. stuff.<br>
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yash-verma-b96699143/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vyash5075) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/)
 
+<a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
+<a href="mailto:ashutoshhathidara98@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+
 <!--<img  height="195" src="https://github-readme-stats.vercel.app/api?username=vyash5075&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">-->
 <img width="195" height="195" src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png"><img align='left' src="https://media2.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif?cid=ecf05e4725657c092319094293eeba846e2e86c9c8b08ad3&rid=giphy.gif" width="230">
