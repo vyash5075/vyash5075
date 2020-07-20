@@ -3,7 +3,7 @@
 <h3>What I do? 👨‍💻</h3>
 <details>
 <summary>Full Stack Developer 🍥</summary>
-  <ul>
+  <ul><li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
      </ul>
 </details>
 <details>
