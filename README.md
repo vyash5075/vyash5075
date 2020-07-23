@@ -22,9 +22,15 @@
   <ul><li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
      </ul>
 </details
+  
+  <details>
+<!-- <summary>Full Stack Developer 🍥</summary>
+  <ul><li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
+     </ul>
+</details -->
  
 <details>
-  <summary>JAVA Developer</a> 🤖</summary>
+  <summary>JAVA Developer 🤖</summary>
   <ul>
   <li> Problem Solving</li>
   <li>Build projects</li>
