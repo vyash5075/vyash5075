@@ -1,5 +1,6 @@
 ### Hi there, YASH VERMA 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br>
 <img align='right' src="https://media2.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif?cid=ecf05e4725657c092319094293eeba846e2e86c9c8b08ad3&rid=giphy.gif" width="230">
+  <details>
   <h3>Current Stats.⚡💻</h3>
   <ul>
   <li>- 🔭 I’m currently working on Frontier Wallet</li>
@@ -10,6 +11,7 @@
 <li>- 😄 Pronouns: He/His</li>
 <li>- ⚡ Fun fact: I spend almost time to discover alot about tech. stuff.<br></li>
   </ul>
+  </details>
 <h3>You Can Connect Me On 👨‍💻</h3> 
 <a href="https://www.linkedin.com/in/yash-verma-b96699143/"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/vyash5075"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/github-logo.png" width="40" /></a>
