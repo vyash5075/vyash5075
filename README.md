@@ -2,7 +2,7 @@
 <img align='right' src="https://media2.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif?cid=ecf05e4725657c092319094293eeba846e2e86c9c8b08ad3&rid=giphy.gif" width="230">
  <h3>Current Statistics⚡💻</h3>
  <details>
-  <summary>Currently Working On⚡💻</summary>
+  <summary>Currently Working On⚡ 👨‍💻</summary>
   <ul>
   <li>- 🔭 I’m currently working on Frontier Wallet</li>
 <li>- 🌱 I’m currently learning REACT.JS</li></li>
@@ -20,7 +20,7 @@
 <a href="mailto:vyash5075@gmail.com"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com"><img src="https://github.com/vyash5075/vyash5075/blob/master/logos/instagram.png" width="40" /></a>
- <img align='right'  src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png"  width="230"/>
+ <!--<img align='right'  src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png"  width="230"/>-->
 <h3>What I do? 👨‍💻</h3>
 <details>
 <summary>Full Stack Developer 🍥</summary>
