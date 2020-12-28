@@ -46,7 +46,7 @@
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
-<br><br>
+
 ### Tech Stack I am Working On:
 
 <img align="left" alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
@@ -61,9 +61,9 @@
 <br />
 <br />
 
-### Languages and Tools I Know:
+<!--### Languages and Tools I Know:
 
-<img align="left" alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
+<!--<img align="left" alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
 <img align="left" alt="CSS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001884-ac0f1900-e5ea-11ea-917d-581a2bf97cad.png" />
 <img align="left" alt="JS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001923-c6e18d80-e5ea-11ea-902a-ed8d23532b15.png" />
 <img align="left" alt="Bootstrap" height="60px" src="https://user-images.githubusercontent.com/38128234/91002197-9f3ef500-e5eb-11ea-91fd-e8bbe7c96815.png" />
@@ -74,9 +74,9 @@
 <br />
 <br />
 
-### Things I Want to Learn or Learning:
+<!--<!--### Things I Want to Learn or Learning:
 
-<img align="left" alt="Django" height="50px" src="https://user-images.githubusercontent.com/38128234/91002487-6eab8b00-e5ec-11ea-8d6b-f70e61ffcc77.png" />
+<!--<img align="left" alt="Django" height="50px" src="https://user-images.githubusercontent.com/38128234/91002487-6eab8b00-e5ec-11ea-8d6b-f70e61ffcc77.png" />
 
 <!--<[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yash-verma-b96699143/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vyash5075) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/)
 
