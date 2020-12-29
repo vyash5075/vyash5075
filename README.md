@@ -41,7 +41,7 @@
   <li>Build projects</li>
   </ul>
 </details>
-### Tech Stack I am Working On:
+#Tech Stack I am Working On:
 
 <img align="left" alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
 <img align="left" alt="CSS" height="50px" src="https://user-images.githubusercontent.com/38128234/91001884-ac0f1900-e5ea-11ea-917d-581a2bf97cad.png" />
