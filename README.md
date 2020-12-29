@@ -41,12 +41,6 @@
   <li>Build projects</li>
   </ul>
 </details>
-<h3>What if you like my work? 🤩</h3>
-<ul>
-  <li>You can Star ⭐ the repositories you like.</li>
-  <li>You can react ❤️ to my LinkedIn posts.</li>
-</ul>
-
 ### Tech Stack I am Working On:
 
 <img align="left" alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/38128234/91001834-7cf8a780-e5ea-11ea-9e90-b2125d90e754.png" />
@@ -57,6 +51,13 @@
 <img align="left" alt="NodeJS" height="50px" src="https://user-images.githubusercontent.com/38128234/91002261-ca294900-e5eb-11ea-982c-823af32712c3.png" />
 <img align="left" alt="MYSQL" height="50px" src="https://user-images.githubusercontent.com/38128234/91002348-08bf0380-e5ec-11ea-8b47-dd4825ca9b9b.png" />
 <img align="left" alt="Bot" height="50px" src="https://user-images.githubusercontent.com/38128234/91002612-c2b66f80-e5ec-11ea-86f8-988054ed884f.png" />
+
+<h3>What if you like my work? 🤩</h3>
+<ul>
+  <li>You can Star ⭐ the repositories you like.</li>
+  <li>You can react ❤️ to my LinkedIn posts.</li>
+</ul>
+
 
 <br />
 <br />
