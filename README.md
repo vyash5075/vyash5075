@@ -52,7 +52,7 @@
 <img align="left" alt="MYSQL" height="50px" src="https://user-images.githubusercontent.com/38128234/91002348-08bf0380-e5ec-11ea-8b47-dd4825ca9b9b.png" />
 <img align="left" alt="Bot" height="50px" src="https://user-images.githubusercontent.com/38128234/91002612-c2b66f80-e5ec-11ea-86f8-988054ed884f.png" />
 <br>
-<h3>What if you like my work? 🤩</h3>
+<br><h3>What if you like my work? 🤩</h3>
 <ul>
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
