@@ -65,6 +65,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vyash5075&show_icons=true&theme=gotham" alt="Yash Verma | Stats" />
 
 </details>
+
  ![Visitor Count](https://profile-counter.glitch.me/{vyash5075}/count.svg)
 
 
