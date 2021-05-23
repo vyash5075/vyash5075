@@ -58,9 +58,6 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-
-<br />
-<br />
  
  <details>
 <summary>📊 Github Stats</summary>
@@ -69,7 +66,7 @@
 
 </details>
 
-
+  ![counter](https://vyash5075.m.pipedream.net)
  ![Visitor Count](https://profile-counter.glitch.me/{vyash5075}/count.svg)
 
 
