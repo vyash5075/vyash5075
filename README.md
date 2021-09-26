@@ -67,7 +67,8 @@
 </details>
 
  ![Visitor Count](https://profile-counter.glitch.me/{vyash5075}/count.svg)
-
+ <br><br>
+[Repos Categorized](https://github.com/vyash5075?tab=repositories)
 
 <!--### Languages and Tools I Know:
 
@@ -92,3 +93,4 @@
 <!--<img  height="195" src="https://github-readme-stats.vercel.app/api?username=vyash5075&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">-->
 <!--<img width="195" height="195" src="https://github.com/vyash5075/vyash5075/blob/master/dev2.png">
 <!--<img align='left' src="https://media2.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif?cid=ecf05e4725657c092319094293eeba846e2e86c9c8b08ad3&rid=giphy.gif" width="230">
+
