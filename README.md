@@ -68,7 +68,7 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{vyash5075}/count.svg)
  <br><br>
-[Repos Categorized](https://github.com/vyash5075?tab=repositories)
+[Repos Categorized](https://github.com/vyash5075/Index)
 
 <!--### Languages and Tools I Know:
 
