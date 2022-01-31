@@ -57,18 +57,17 @@
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
-
- <br>
+ 
+  <h3><a href='https://github.com/vyash5075/Index'>View Repos :point_left:</a></h3>
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vyash5075&show_icons=true&theme=gotham" alt="Yash Verma | Stats" />
+<p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=vyash5075&show_icons=true&theme=gotham" alt="Yash Verma | Stats" />
 
 </details>
 
  ![Visitor Count](https://profile-counter.glitch.me/{vyash5075}/count.svg)
- <br><br>
-[Repos Categorized](https://github.com/vyash5075/Index)
+
 
 <!--### Languages and Tools I Know:
 
