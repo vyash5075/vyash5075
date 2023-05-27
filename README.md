@@ -4,8 +4,7 @@
 </p>
 
   <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 44px> About Me</h2>
-  
-  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+ 
   <p> 
   I'm Yash Verma, a Passionate Javascript Developers with 2 years of experience in building robust and scalable web applications. I have a deep understanding of JavaScript fundamentals and extensive hands-on experience in front-end and back-end development. I had done my Bachelors's in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵 and play games🎮.
 </p>
