@@ -127,7 +127,7 @@
 <br />
 <br />
 
-<!--<!--### Things I Want to Learn or Learning:
+<!--<!--### Things I Want to Learn or Learning :
 
 <!--<img align="left" alt="Django" height="50px" src="https://user-images.githubusercontent.com/38128234/91002487-6eab8b00-e5ec-11ea-8d6b-f70e61ffcc77.png" />
 
