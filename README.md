@@ -12,7 +12,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="320px"   />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs :
 - 🎓 I am a **learner**
 - 💻 Major is **Computer Science and Technology**.
 - 🌱 I'm currently learning **Web development and Golang**.
